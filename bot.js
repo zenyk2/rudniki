@@ -4,7 +4,7 @@
  */
 
 const BOT_TOKEN = process.env.BOT_TOKEN || '8631959892:AAFbU3elE01qPjiOv1lx0dVGzqr4ZXtuGGI';
-const WEBAPP_URL = process.env.WEBAPP_URL || 'https://rudniki.vercel.app/rudniki-v8.0.html';
+const WEBAPP_URL = process.env.WEBAPP_URL || 'https://zenyk2.github.io/rudniki/rudniki-v8.0.html';
 
 const https = require('https');
 
