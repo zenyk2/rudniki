@@ -1,0 +1,10 @@
+{
+  "name": "rudniki",
+  "version": "8.0.0",
+  "description": "Rudniki — Telegram Mining Game",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "node bot.js",
+    "start": "node bot.js"
+  }
+}
